@@ -17,3 +17,43 @@
 - ⚡ Fun fact: I love to solve puzzles and enjoy finding patterns in seemingly unrelated data.
 - 🎯 Goals: To apply my passion for data to solve real-world problems, contribute to innovative projects, and grow as a data professional.
 - 🚀 Excited about the prospect of collaborating and learning in a dynamic data-driven environment!
+
+
+## Tech Stack
+
+- **Programming Languages:**
+  - Python 🐍
+  - SQL 📊
+
+- **Data Analysis and Visualization:**
+  - Pandas 🐼
+  - Matplotlib 📈
+  - Seaborn 🌊
+  - Power BI 💡
+  - Tableau 📊
+  - Excel 📉
+
+- **Database Management:**
+  - MySQL 🧮
+  - SQLite 📁
+
+- **Version Control:**
+  - Git 🐙
+
+- **Tools and Frameworks:**
+  - Jupyter Notebooks 📓
+  - Visual Studio Code 💻
+
+- **Data Science Libraries:**
+  - NumPy 🔢
+  - Scikit-learn 🧠
+
+- **Operating Systems:**
+  - Windows 🪟
+  - Linux (Ubuntu) 🐧
+
+- **Collaboration:**
+  - GitHub 🐱
+
+- **Currently Learning:**
+  - Machine Learning with TensorFlow ⚙️
