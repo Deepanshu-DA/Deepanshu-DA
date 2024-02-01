@@ -7,7 +7,7 @@
   - Data Cleaning and Preprocessing
   - Exploratory Data Analysis (EDA)
   - Basic statistical analysis
-  - Data Visualization using tools like Matplotlib and Pandas
+  - Data Visualization
   - SQL for basic database querying
 - 🌐 Check out my projects and coursework on [Your GitHub Repository or Portfolio URL].
 - 📫 How to reach me:
