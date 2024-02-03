@@ -27,7 +27,8 @@
 📫 Reach me via:
 
 - Email: deepanshush1696@gmail.com
-- LinkedIn: Deepanshu Sharma
+- LinkedIn: [Deepanshu Sharma](https://www.linkedin.com/in/deepanshu-sharma-da/)
+
 
 😄 Pronouns: He/Him
 
