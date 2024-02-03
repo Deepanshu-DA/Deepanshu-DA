@@ -4,7 +4,7 @@
 
 💼 I am actively seeking opportunities to kickstart my career in the realm of Data Analysis, aiming to apply my passion for data to solve real-world problems and contribute to innovative projects.
 
-##📊 My skills include:
+## 📊 My skills include:
 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -12,7 +12,7 @@
 - Data Visualization
 - SQL for database querying
 
-##🔧 Tech Stack:
+## 🔧 Tech Stack:
 
 - Programming Languages: Python 🐍, SQL 📊
 - Data Analysis and Visualization: Pandas 🐼, Matplotlib 📈, Seaborn 🌊, Power BI 💡, Tableau 📊, Excel 📉, MongoDB Atlas Charts 📈
